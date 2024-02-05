@@ -27,7 +27,7 @@ To run the code on your local machine, follow these steps:
    - The X coordinate of the end point
    - The Y coordinate of the end point
 
-  The dimensions of the maze is ***81x81***, so take it into account when entering values.
+  The dimensions of the maze are ***81x81***, so take it into account when entering values.
   
   Here is an example of a working command:
   ```sh
